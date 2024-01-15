@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Damith Fernando
+# I'm Damith Fernando
 
 ## About Me
 - **Profession:** System Engineer
