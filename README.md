@@ -5,8 +5,7 @@
 ## About Me
 - **Profession:** System Engineer
 - **Current Workplace:** Lanex Co. Ltd, Japan
-- **Experience:** {{new Date().getFullYear() - 2021}} years in the field
-- date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+- **Experience:** 3 years in the field
 - **Education:** Tohoku Computer College
 
 ## My stats
