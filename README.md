@@ -24,3 +24,4 @@ Feel free to explore my repositories and connect with me. Let's collaborate and 
 
 Happy coding! 🚀
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
