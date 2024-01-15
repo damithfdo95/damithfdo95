@@ -8,7 +8,7 @@
 - **Experience:** 3 years in the field
 - **Education:** Tohoku Computer College
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damithfdo95)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=damithfdo95" alt="GitHub stats" />
 
 ## Bio
 Greetings, fellow developers! 👋 I'm Damith Fernando, a passionate System Engineer currently contributing my skills and knowledge at Lanex Co. Ltd in Japan. With 3 years of hands-on experience, I thrive on tackling complex challenges and finding efficient solutions.
