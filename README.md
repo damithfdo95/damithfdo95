@@ -10,7 +10,7 @@
 
 ## My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=damithfdo95" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=damithfdo95&show_icons=true&theme=dracula" alt="GitHub stats" />
 
 
 ## Bio
