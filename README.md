@@ -5,7 +5,7 @@
 ## About Me
 - **Profession:** System Engineer
 - **Current Workplace:** Lanex Co. Ltd, Japan
-- **Experience:** 3 years in the field
+- **Experience:** {{new Date().getFullYear() - 2021}} years in the field
 - **Education:** Tohoku Computer College
 
 ## My stats
