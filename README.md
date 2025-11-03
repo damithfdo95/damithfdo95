@@ -5,7 +5,7 @@
 ## About Me
 - **Profession:** System Engineer
 - **Current Workplace:** Lanex Co. Ltd, Japan
-- **Experience:** 3 years in the field
+- **Experience:** 5 years in the field
 - **Education:** Tohoku Computer College, Japan
 
 ## My stats
@@ -16,7 +16,7 @@
 
 
 ## Bio
-Greetings, fellow developers! 👋 I'm Damith Fernando, a passionate System Engineer currently contributing my skills and knowledge at Lanex Co. Ltd in Japan. With 3 years of hands-on experience, I thrive on tackling complex challenges and finding efficient solutions.
+Greetings, fellow developers! 👋 I'm Damith Fernando, a passionate System Engineer currently contributing my skills and knowledge at Lanex Co. Ltd in Japan. With 5 years of hands-on experience, I thrive on tackling complex challenges and finding efficient solutions.
 
 ## Education
 I am an alum of Tohoku Computer College, where I honed my technical skills and laid the foundation for my journey in the IT world.
