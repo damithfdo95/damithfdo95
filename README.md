@@ -8,11 +8,12 @@
 - **Experience:** 5 years in the field
 - **Education:** Tohoku Computer College, Japan
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damithfdo95&show_icons=true&count_private=true&include_all_commits=true)
+![Followers](https://img.shields.io/github/followers/damithfdo95)
+![Stars](https://img.shields.io/github/stars/damithfdo95)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Active-brightgreen)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damithfdo95&layout=compact)
 
 
 
