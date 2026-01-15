@@ -8,11 +8,21 @@
 - **Experience:** 5 years in the field
 - **Education:** Tohoku Computer College, Japan
 
-## My stats
+## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=damithfdo95&show_icons=true&theme=dracula" alt="GitHub stats" />
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damithfdo95&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithfdo95&exclude_repo=damithfdo95&layout=compact&theme=dracula" alt="Languages" />
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damithfdo95&layout=compact&theme=dracula&langs_count=8&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
 
 
 ## Bio
